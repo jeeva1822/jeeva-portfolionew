@@ -67,6 +67,9 @@ a:hover {
 
 .logo {
   font-size: 2rem;
+  background: linear-gradient(to right, blue, black);
+  background-clip: text;
+  color: transparent;
 }
 
 .logo:hover {
